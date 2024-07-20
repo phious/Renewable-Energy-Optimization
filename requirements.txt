@@ -5,3 +5,5 @@ pandas
 scikit-learn
 plotly
 requests
+sqlalchemy
+sqlite
