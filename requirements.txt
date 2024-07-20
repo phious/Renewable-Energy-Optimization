@@ -1,0 +1,7 @@
+requirements for Dependencies
+flask
+dash
+pandas
+scikit-learn
+plotly
+requests
