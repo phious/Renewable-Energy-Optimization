@@ -59,6 +59,19 @@ African communities face unique challenges in managing renewable energy resource
 
 3. **Efficient Distribution**: By integrating solar and wind power resources, our system can dynamically adjust the distribution of energy to meet real-time demands, ensuring that renewable resources are utilized to their fullest potential.
 
+ ## Database Setup
+
+### SQL Database
+- **Installation:** Make sure `SQLAlchemy` and `sqlite` are installed.
+- **Setup:** Run `src/database_setup.py` to create the database and tables.
+- **Usage:** Use `data_processing.py` to interact with the SQL database.
+
+### NoSQL Database
+- **Installation:** Make sure `pymongo` is installed.
+- **Setup:** Run `src/mongodb_setup.py` to initialize MongoDB and populate data.
+- **Usage:** Use `data_processing.py` to interact with MongoDB.
+
+
 ## Getting Started
 
 To get started with the project, follow the instructions in the [setup documentation](docs/setup.md).
