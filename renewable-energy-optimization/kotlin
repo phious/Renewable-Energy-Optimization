@@ -1,0 +1,14 @@
+renewable-energy-optimization/
+│
+├── data_collection.py
+├── data_cleaning.py
+├── model_development.py
+├── model_testing.py
+├── data_pipeline.py
+├── app.py
+├── dashboard.py
+├── requirements.txt
+│
+└── data/
+    └── weather_data.csv
+    └── cleaned_weather_data.csv
