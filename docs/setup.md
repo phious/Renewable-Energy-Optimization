@@ -15,5 +15,5 @@ Before you begin, ensure you have the following software installed:
 First, clone the project repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/renewable-energy-optimization.git
+git clone https://github.com/phious/renewable-energy-optimization.git
 cd renewable-energy-optimization
