@@ -4,8 +4,8 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta
 
-API_KEY = 'your_api_key_here'
-LOCATION = 'Your City, Country'  # e.g., 'Nairobi, Kenya'
+API_KEY = 'a1eb92c311b670fa73879e8650fdc345'
+LOCATION = 'Addis Ababa, Ethiopia' 
 BASE_URL = 'http://api.openweathermap.org/data/2.5/onecall/timemachine'
 
 def get_weather_data(api_key, location, date):
