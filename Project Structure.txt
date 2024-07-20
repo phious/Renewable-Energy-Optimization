@@ -19,3 +19,39 @@ renewable-energy-optimization/
 └── data/
     ├── weather_data.csv
     └── cleaned_weather_data.csv
+
+
+-----------------------------------------------
+
+
+
+updated below working it  
+
+
+renewable-energy-optimization/
+│
+├── docs/
+│   ├── setup.md                  # Setup instructions
+│   ├── CONTRIBUTING.md           # Contributing guidelines (if applicable)
+│   └── LICENSE                   # Project license
+│
+├── src/
+│   ├── __init__.py               # Package initialization
+│   ├── data_collection.py        # Script for collecting data
+│   ├── data_cleaning.py          # Script for cleaning and preprocessing data
+│   ├── data_processing.py        # Script for processing and integrating data
+│   ├── model_development.py      # Script for developing and training ML models
+│   ├── model_testing.py          # Script for testing and evaluating models
+│   ├── database_setup.py         # Script for setting up SQL database schema
+│   ├── mongodb_setup.py          # Script for setting up NoSQL database (MongoDB)
+│   ├── dashboard.py              # Script for running the Dash dashboard
+│   └── cloud_setup.py            # Script for deploying to cloud platforms
+│
+├── app.py                        # Flask API server script
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project overview and instructions
+├── .gitignore                    # Git ignore file to exclude files from version control
+└── data/                         # Directory for storing raw and processed data
+    ├── raw/                      # Raw data files
+    └── processed/               # Processed data files
+
